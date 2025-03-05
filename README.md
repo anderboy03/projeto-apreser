@@ -7,3 +7,5 @@
 
 
 <a href="rainbow-dodol-ca3c57.netlify.app" rel="link projeto">
+
+This site was built using [GitHub Pages](rainbow-dodol-ca3c57.netlify.ap/).
