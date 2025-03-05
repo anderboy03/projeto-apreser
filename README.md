@@ -6,6 +6,6 @@
 
 
 
-<a href="rainbow-dodol-ca3c57.netlify.app" rel="link projeto">
+
 
 Site completo [Pagina presers](rainbow-dodol-ca3c57.netlify.ap/).
